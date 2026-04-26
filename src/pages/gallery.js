@@ -4,7 +4,7 @@ import Frame from "../components/frame";
 const GalleryPage = () => {
   return (
     <Frame>
-      <p>This will be passed in as children</p>
+      <p>this text is children text</p>
     </Frame>
   );
 };
