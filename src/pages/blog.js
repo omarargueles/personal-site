@@ -9,4 +9,7 @@ const BlogPage = () => {
     </Layout>
   );
 };
-export default blog;
+
+const Head = () => <Seo title="My blog posts" />;
+
+export default BlogPage;
